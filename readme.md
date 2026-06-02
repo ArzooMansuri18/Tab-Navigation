@@ -1,6 +1,9 @@
 <h1>Tab Navigation Component</h1>
 
+<h2>Live Demo: https://arzoomansuri18.github.io/Tab-Navigation/</h2>
+
 <p>This project is a simple and reusable <b>Tab Navigation UI</b> built using <b>HTML, CSS and JavaScript.</b> Users can click on different tabs and the active tab will show its related content while hiding the rest.</p>
+
 
 <h2>Features</h2>
 
